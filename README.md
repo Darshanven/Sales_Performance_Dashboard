@@ -616,7 +616,7 @@ The dashboard helps businesses:
 
 ```bash
 
-git clone https://github.com/your-username/Sales-Performance-Dashboard.git
+git clone (https://github.com/Darshanven/Sales_Performance_Dashboard.git)
 
 ```
 
